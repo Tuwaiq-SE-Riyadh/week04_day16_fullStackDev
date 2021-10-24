@@ -1,4 +1,4 @@
-# week04_day16_fullStackDev
+# Full Stack Dev Lab
 
 ## Discuss and answer the following questions:
 
